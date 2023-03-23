@@ -2,6 +2,8 @@
 
 This project uses YOLOv4 object detection to count the number of people in a video. It's written in Python and uses the OpenCV library for video processing.
 
+![kirpilmis](https://user-images.githubusercontent.com/58664122/227340832-91f976ca-f38c-409a-b483-3db803fe9bbd.gif)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
